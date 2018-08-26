@@ -1,0 +1,38 @@
+1 	Mr. James Kirk
+2 	Mr. Geordie LaForge
+3 	Mr. Christopher Pike
+4 	Mr. Jean-Luc Picard
+5 	Ms. Christine Chapel
+6 	Mrs. Janice Rand
+7 	Miss Diana Troi
+8 	Miss Nyota Uhura
+9 	Mrs. Jadzia Dax
+10 	Ms. Tasha Yar
+11 	Mr. William Riker
+12 	Mr. Lt. Whorf
+13 	Mr. Leonard McCoy
+14 	Miss Kathryn Janeway
+15 	Ms. Erica Kane
+
+
+Male names:
+Mr. James Kirk
+Mr. Geordie LaForge
+Mr. Christopher Pike
+Mr. Jean-Luc Picard
+Mr. William Riker
+Mr. Lt. Whorf
+Mr. Leonard McCoy
+
+Female Names:
+Ms. Christine Chapel
+Mrs. Janice Rand
+Miss Diana Troi
+Miss Nyota Uhura
+Mrs. Jadzia Dax
+Ms. Tasha Yar
+Miss Kathryn Janeway
+
+Total males:		 7
+Total females:		 8 
+Total guests:		15
